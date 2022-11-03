@@ -1,4 +1,4 @@
-[![masterHead width="100%"](https://png.pngtree.com/thumb_back/fh260/back_pic/02/50/63/71577e1cf59d802.jpg)
+[![masterHead](https://i.pinimg.com/736x/ca/b9/a9/cab9a9f42d7948a84890950f7da29098.jpg)
 <h1 align="center">Hi 👋, I'm Thamaraiselvam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" src="https://st.depositphotos.com/1915171/5109/v/450/depositphotos_51091665-stock-illustration-coder-sign-icon-programmer-symbol.jpg" width="400">
